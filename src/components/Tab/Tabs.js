@@ -13,24 +13,7 @@ function callback(key) {
 
 const Tab = () => (
 
-    // <Tabs defaultActiveKey="1" onChange={callback}>
-    //     <TabPane tab="Allgemeines" key="1">
-    //         <Body />
-    //     </TabPane>
-    //     <TabPane tab="Aussehen" key="2">
-    //         Content of Tab Aussehen
-    // </TabPane>
-    //     <TabPane tab="Sonstiges" key="3">
-    //         Content of Sonstiges
-    // </TabPane>
-    //     <TabPane tab="Photos" key="4">
-    //         Content of Photos
-    // </TabPane>
-    //     <TabPane tab="Settings" key="5">
-    //         Content of Settings
-    // </TabPane>
 
-    // </Tabs>
     <Container className="main-container-tab">
         <div className="card-container">
             <Tabs type="card" className="card-tab" size="middle">
