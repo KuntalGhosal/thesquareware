@@ -27,7 +27,7 @@ function Header() {
                       </Nav.Link>
                             </Nav.Item>
                             <Nav.Item>
-                                <Button style={{ backgroundColor: '#DF88EB', color: '#000000', border: 'none', borderRadius: 8, padding: 10, fontSize: 15 }} className="link-styles1" >Anmelden</Button>
+                                <Button className="link-styles1" >Anmelden</Button>
                             </Nav.Item>
                         </Nav>
                     </Navbar.Collapse>

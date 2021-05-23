@@ -52,6 +52,7 @@
 }
 .submit-two:hover {
   background-color: #e0a4e8 !important;
+  transform: translateY(-2px);
 }
 .label-style {
   color: #000000;
