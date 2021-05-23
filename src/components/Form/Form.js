@@ -51,10 +51,10 @@ export default function MyCustomForm() {
 
                     <div className="btn-container">
                         <Button type="submit" className="submit-one">
-                            Submit
+                            Save me
                     </Button>
                         <Button type="submit" className="submit-two">
-                            Submit
+                            Next
                     </Button>
                     </div>
                 </Form>

@@ -7,7 +7,6 @@
 }
 .form-controlStyle {
   border: none !important;
-
   border-bottom: 1px solid red !important;
   border-image: initial !important;
   background-color: rgb(252, 246, 240) !important;
@@ -17,7 +16,6 @@
 }
 .form-controlStyle:hover {
   border: none !important;
-
   border-bottom: 2px solid red !important;
   border-image: initial !important;
   background-color: rgb(252, 246, 240) !important;
