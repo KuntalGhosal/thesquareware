@@ -11,7 +11,6 @@
 .first-div {
   list-style: none;
   display: flex;
-  /* flex-direction: row; */
 }
 .first-div li {
   padding-right: 15px;
@@ -36,7 +35,6 @@ img {
     padding: 3px;
     left: 0;
     font-size: 9px;
-    /* justify-content: flex-start; */
   }
   .one {
     justify-content: flex-start;
@@ -51,6 +49,5 @@ img {
     margin-left: 0;
     margin-right: auto;
     padding: 0;
-    /* justify-content: flex-start; */
   }
 }

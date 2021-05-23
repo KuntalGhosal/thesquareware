@@ -1,5 +1,3 @@
-/* .form-parent {
-} */
 .header-text {
   color: #762f00;
 }
@@ -29,14 +27,10 @@
 }
 .radio-style {
   display: flex;
-  /* justify-content: space-between !important; */
-  /* margin-right: 10; */
 }
 .btn-container {
   display: flex;
   flex-direction: row;
-
-  /* margin-left: -60px; */
 }
 .submit-one {
   background-color: #df88eb27 !important;
